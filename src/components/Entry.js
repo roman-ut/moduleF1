@@ -1,6 +1,4 @@
 import React, {useState} from "react";
-import PropTypes from "prop-types";
-
 import "../styles/Entry.css";
 
 function Entry(props) {
@@ -13,11 +11,5 @@ function Entry(props) {
         </tr>
     );
 }
-
-Entry.propTypes = {
-    country: PropTypes.oneOfType([
-        PropTypes.instanceOf
-    ])
-};
 
 export default Entry;
