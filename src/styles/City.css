@@ -1,0 +1,13 @@
+table.countries {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.jquerysel {
+    height: 85px;
+    text-align: center;
+    padding:20px;
+    font-size:22px;
+    display: block;
+    margin: auto;
+}

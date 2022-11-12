@@ -1,0 +1,13 @@
+h1 {
+    font-size: 150%;
+    text-align: center;
+    color: #20211f;
+}
+
+table {
+    margin: 0 auto;
+}
+
+.form-check {
+    text-align: center;
+}
